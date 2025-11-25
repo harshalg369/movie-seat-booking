@@ -1,3 +1,5 @@
+https://harshalg369.github.io/movie-seat-booking/
+
 🎬 CineLux Vadodara — Premium Movie Seat Booking
 A modern, elegant, and fully interactive movie seat booking system built using HTML, CSS, and JavaScript.
 This project offers a premium UI experience inspired by real-world cinema booking apps (PVR, INOX, BookMyShow).
