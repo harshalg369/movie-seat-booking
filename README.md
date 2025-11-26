@@ -1,4 +1,5 @@
-https://harshalg369.github.io/movie-seat-booking/
+## https://harshalg369.github.io/movie-seat-booking/
+
 ☝️ Tap ☝️
 🎬 CineLux Vadodara — Premium Movie Seat Booking
 A modern, elegant, and fully interactive movie seat booking system built using HTML, CSS, and JavaScript.
