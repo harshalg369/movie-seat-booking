@@ -1,4 +1,9 @@
 ## https://harshalg369.github.io/movie-seat-booking/
+
+
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bbba7b37-9c66-4be6-988b-84abfd9fcfb0" />
+
 live : https://codesandbox.io/p/sandbox/github/harshalg369/movie-seat-booking
 ☝️ Tap ☝️
 🎬 CineLux Vadodara — Premium Movie Seat Booking
