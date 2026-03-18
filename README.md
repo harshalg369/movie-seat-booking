@@ -1,6 +1,11 @@
 live : https://codesandbox.io/p/sandbox/github/harshalg369/movie-seat-booking
 
 
+
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/f79cb4da-d5ce-45a8-9fe6-f40b541f05cb" />
+
+
+
 ## https://harshalg369.github.io/movie-seat-booking/
 
 
